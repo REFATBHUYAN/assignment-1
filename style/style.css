@@ -17,7 +17,6 @@ header {
 
 .header-container {
     width: 35%;
-    /* padding-top: 230px; */
     padding: 160px 230px 170px 845px;
 }
 
@@ -43,4 +42,25 @@ header {
     font-size: 20px;
     padding: 20px 25px;
     border-radius: 5px;
+}
+
+/* failur section */
+.failur-section {
+    display: flex;
+    padding: 130px 200px;
+    align-items: center;
+    gap: 90px;
+}
+
+.section-title {
+    font-weight: 700;
+    font-size: 40px;
+}
+
+.list-item {
+    padding-bottom: 8px;
+}
+
+.fa-check {
+    color: rgb(94, 238, 94);
 }
