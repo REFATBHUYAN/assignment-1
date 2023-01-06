@@ -8,7 +8,7 @@
 /* header section */
 header {
     text-align: right;
-    background-image: url('../images/banner/banner1.png');
+    background-image: url('../images/banner/banner2.png');
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
@@ -63,6 +63,16 @@ header {
 
 .fa-check {
     color: rgb(94, 238, 94);
+}
+/* goal section */
+.goals-section {
+    display: flex;
+    padding: 130px 200px;
+    align-items: center;
+    gap: 150px;
+}
+.fa-angles-right{
+    color: rgb(201, 63, 38);
 }
 /* my plan section */
 .plan-container{
